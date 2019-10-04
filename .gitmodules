@@ -1,0 +1,3 @@
+[submodule "weather_data"]
+	path = weather_data
+	url = https://github.com/Hallsteinsk/weather_data.git
